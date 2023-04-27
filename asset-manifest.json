@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Thiago-Alo/Ebac--Build-and-Delivery-/static/css/main.073c9b0a.css",
+    "main.js": "/Thiago-Alo/Ebac--Build-and-Delivery-/static/js/main.17657c0b.js",
+    "static/js/787.c1112931.chunk.js": "/Thiago-Alo/Ebac--Build-and-Delivery-/static/js/787.c1112931.chunk.js",
+    "index.html": "/Thiago-Alo/Ebac--Build-and-Delivery-/index.html",
+    "main.073c9b0a.css.map": "/Thiago-Alo/Ebac--Build-and-Delivery-/static/css/main.073c9b0a.css.map",
+    "main.17657c0b.js.map": "/Thiago-Alo/Ebac--Build-and-Delivery-/static/js/main.17657c0b.js.map",
+    "787.c1112931.chunk.js.map": "/Thiago-Alo/Ebac--Build-and-Delivery-/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.17657c0b.js"
+  ]
+}
